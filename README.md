@@ -11,7 +11,7 @@
  Data Analytics, SQL optimization, Power BI, and web development
 
 Ask me about  
-React.js, Node.js, MERN Stack, JavaScript, Python for Data Analysis, Power BI, GSAP animations  
+React.js, Node.js, MERN Stack, JavaScript, Python for Data Analysis, Power BI, GSAP animations ,SQL.  
 
  Fun fact  
 I enjoy turning complex data into simple insights and love building animated, interactive web experiences 🚀
